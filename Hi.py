@@ -1,0 +1,5 @@
+Print("Hi I am looking for a job in python")
+Age=("I am only 11 but I think I know a few things about python")
+Print(age)
+Pls=("please consider my offer and help me get a job")
+Print(Pls)
